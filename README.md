@@ -1,2 +1,2 @@
-# arrray-exercise-C-Modern-Approach
+support VS2022
 1145141919810
